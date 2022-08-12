@@ -40,7 +40,8 @@
     <img src="https://img.icons8.com/ios/344/twitch--v1.png" alt="twitch" height="100" width="100" target="_blank" /> 
   </a>
   </div>
-  ##
+  
+  
   <div>
 
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ronaldokuroda/ronaldokuroda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ronaldokuroda/ronaldokuroda/output/github-contribution-grid-snake.svg#gh-light-mode-only)
