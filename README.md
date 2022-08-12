@@ -10,11 +10,10 @@
     
 </div>
 <div style="display: inline_block"><br>
- <img align="center" alt="Ronaldo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Ronaldo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Ronaldo-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Ronaldo-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
+  <img align="center" alt="Ronaldo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ronaldo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ronaldo-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Ronaldo-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
  ##
@@ -42,7 +41,7 @@
   </a>
   
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ronaldokuroda/ronaldokuroda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ronaldokuroda/ronaldokuroda/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ronaldokuroda/ronaldokuroda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ronaldokuroda/ronaldokuroda/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
   
 </div>
