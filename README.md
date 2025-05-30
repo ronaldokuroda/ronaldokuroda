@@ -52,3 +52,8 @@
 
   
 </div>
+
+<!-- ![Snake animation](https://github.com/ronaldokuroda/ronaldokuroda/blob/output/github-contribution-grid-snake.svg)
+<img align="right" src="https://cdn.discordapp.com/attachments/780589825220018209/1063581964365463573/emails-college.gif" width="120px"> 
+
+-->
