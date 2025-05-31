@@ -4,9 +4,14 @@
   
   <a href="https://github.com/ronaldokuroda">
     
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ronaldokuroda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldokuroda&langs_count=10&langs_count=7&theme=dracula"/> 
+
+
+  <!-- Atividades -->
+  <p align="center">
+  <a href="https://github.com/GabrieleAraujo">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ronaldokuroda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldokuroda&layout=compact&langs_count=7&theme=tokyonight"/></p>
+<!--  <img align="right" alt="Gabi-yoda" height="150" width="160"  src="https://cdn.discordapp.com/attachments/758362394220298319/884566798794633246/picasion.com_31530aa7d40907ef0b9fb4a23c597ae7.gif"> -->
     
 </div>
 <div style="display: inline_block"><br>
