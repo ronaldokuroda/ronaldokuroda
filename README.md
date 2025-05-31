@@ -3,8 +3,6 @@
 <div align="center">
   
   <a href="https://github.com/ronaldokuroda">
-    
-
 
   <!-- Atividades -->
   <p align="center">
@@ -40,13 +38,6 @@
   <a href="https://www.instagram.com/ronaldokuroda" target="_blank"> 
     <img src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="instagram" height="100" width="100" target="_blank" /> 
   </a>
-  
-  <a href="https://www.twitch.tv/h1r04" target="_blank"> 
-    <img src="https://img.icons8.com/external-justicon-flat-justicon/344/external-twitch-social-media-justicon-flat-justicon.png" alt="twitch" height="100" width="100" target="_blank" /> 
-  </a>
-
-
-
   
 </div>
 
