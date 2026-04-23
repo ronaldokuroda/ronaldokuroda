@@ -24,19 +24,19 @@
 <div align="center">
   
   <a href="mailto:ronaldokuroda@hotmail.com" target="_blank"> 
-    <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/344/external-email-multimedia-kiranshastry-lineal-color-kiranshastry-1.png" alt="email" height="100" width="100" target="_blank"/> 
+    <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/344/external-email-multimedia-kiranshastry-lineal-color-kiranshastry-1.png" alt="email" height="50" width="50" target="_blank"/> 
   </a>
   
   <a href="https://www.ronaldokuroda.com" target="_blank"> 
-    <img src="https://img.icons8.com/color-glass/344/domain.png" alt="site" height="100" width="100" target="_blank"/> 
+    <img src="https://img.icons8.com/color-glass/344/domain.png" alt="site" height="50" width="50" target="_blank"/> 
   </a>
   
   <a href="https://www.linkedin.com/in/ronaldokuroda/" target="_blank"> 
-    <img src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png" alt="linkedin" height="100" width="100" target="_blank" /> 
+    <img src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png" alt="linkedin" height="50" width="50" target="_blank" /> 
   </a>
   
   <a href="https://www.instagram.com/ronaldokuroda" target="_blank"> 
-    <img src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="instagram" height="100" width="100" target="_blank" /> 
+    <img src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="instagram" height="50" width="50" target="_blank" /> 
   </a>
   
 </div>
